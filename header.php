@@ -24,7 +24,6 @@
 
 
 <!--End-->
-
 <!--[if lt IE 7]>
 	<link href="assets//css/font-awesome-ie7.min.css" rel="stylesheet">
 	<![endif]-->
@@ -38,6 +37,7 @@
 <link rel="shortcut icon" href="assets/ico/favicon.ico">
  <?php    
     error_reporting(0);
+    echo "";
    
   ?>
   </head>
